@@ -8,7 +8,6 @@
   "installCommand": null,
   "framework": null,
   "outputDirectory": "public",
-  "functions": {},
   "routes": [
     {
       "src": "/(.*)",
